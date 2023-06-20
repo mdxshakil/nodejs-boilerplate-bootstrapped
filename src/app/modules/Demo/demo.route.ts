@@ -1,8 +1,8 @@
-import express, { NextFunction, Request, Response } from "express";
+import express, { Request, Response } from 'express';
 const router = express.Router();
 
-router.get("/", (req: Request, res: Response, next: NextFunction) => {
-  res.send("My awesome route");
+router.get('/', (req: Request, res: Response) => {
+  res.send('My awesome module is working');
 });
 
 export const DemoRoutes = router;

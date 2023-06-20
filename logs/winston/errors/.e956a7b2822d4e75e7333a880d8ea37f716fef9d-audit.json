@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\Do It Now\\THINK-IN-LEVEL2\\Milestone-3-BACKEND\\UNIVERSITY-MANAGEMENT\\nodejs-boilerplate\\logs\\winston\\errors\\.e956a7b2822d4e75e7333a880d8ea37f716fef9d-audit.json",
+    "files": [
+        {
+            "date": 1687258823065,
+            "name": "E:\\Do It Now\\THINK-IN-LEVEL2\\Milestone-3-BACKEND\\UNIVERSITY-MANAGEMENT\\nodejs-boilerplate\\logs\\winston\\errors\\phu-2023-20-06-17-error.log",
+            "hash": "98d7df7d49911a41c3f91bab70310128a5a0d6f34da3fa79959d6b6ea9edd8b1"
+        }
+    ],
+    "hashType": "sha256"
+}
